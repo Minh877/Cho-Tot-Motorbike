@@ -8,4 +8,4 @@
 > Build a model to predict whether customers will churn or continue to use the service.
 
 **Models:** 
-> Logistic Regression, Random Forest, KNN, SVM
+> Logistic Regression, Decision Tree, Random Forest, KNN, SVM
